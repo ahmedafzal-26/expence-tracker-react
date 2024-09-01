@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Project Specifications:
+- Provide users with the ability to categorize their expenses, facilitating organized tracking and analysis. 
+- Enable users to add and delete transactions, ensuring a dynamic and interactive experience. 
+- Implement React Hooks for real-time updates, allowing users to see changes instantly without requiring a page refresh. 
+- By combining React, Context API, and React Hooks, this Expense Tracker Web-Application aims to deliver a modern and 
+  efficient solution for users to manage their expenses effectively. 
